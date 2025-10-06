@@ -1,21 +1,6 @@
-# Hi there 👋, I'm Angkoon Ardtunyakorn
+# Hi 
 
-💻 **Full Stack Developer** | React.js | Node.js | MongoDB | Vue.js
 
----
-
-### 🔭 I’m currently working on
-- **Magical World Game** web app
-- **Portfolio Website** to showcase projects
-
----
-
-### 🌱 I’m currently learning
-- Next.js 15 & React 19
-- GraphQL & TypeScript
-- Real-time apps with Socket.IO
-
----
 
 ### 🛠️ Tech Stack
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -28,18 +13,10 @@
 ---
 
 ### 📊 GitHub Stats
-![Angkoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![Angkoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=nineard99&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nineard99&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nineard99&theme=radical)
 
----
-
-### 🔗 Featured Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| Magical World Game | Gacha-style treasure box game | Vue.js, Node.js, MongoDB |
-| Random Item Collector | Web game with mini-games & inventory | React.js, Node.js, JSON Server |
-| Portfolio Website | Personal website & projects showcase | Next.js, Tailwind CSS |
 
 ---
 
