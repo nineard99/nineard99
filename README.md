@@ -21,9 +21,23 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nineard99&show_icons=true&hide_border=true&theme=radical)
 
 
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nineard99&show_icons=true&hide_border=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nineard99&layout=compact&hide_border=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nineard99&theme=radical" height="120"/>
+</p>
+
+### 🎮 Level & XP (Custom)
+<p align="center">
+  <img src="https://progress-bar.dev/80/?title=GitHub+Level&suffix=XP&color=ff69b4" height="25"/>
+  <img src="https://progress-bar.dev/65/?title=Contributions&suffix=Commits&color=00bfff" height="25"/>
+  <img src="https://progress-bar.dev/90/?title=Pull+Requests&suffix=PRs&color=ffa500" height="25"/>
+</p>
+
 ---
 
 > "I have no idea what I’m doing… but at least it compiles." 😎
-<p align="center">
-  <img src="https://media.tenor.com/PLIr_VkF6ywAAAPo/ghostedvpn-hacker-cat.gif" height="200"/>
-</p>
+
