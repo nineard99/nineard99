@@ -19,8 +19,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nineard99&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nineard99&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nineard99&show_icons=true&hide_border=true&theme=radical)
-![Level Up](https://img.shields.io/badge/Level-99-red?style=for-the-badge&logo=appveyor)
-![Code Ninja](https://img.shields)
 
 ---
 
