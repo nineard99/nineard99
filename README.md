@@ -18,9 +18,12 @@
 ### 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nineard99&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nineard99&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nineard99&show_icons=true&hide_border=true&theme=radical)
 
 
 ---
 
 > "I have no idea what I’m doing… but at least it compiles." 😎
-https://images-ext-1.discordapp.net/external/EEwm8YGeupD5_mwcELIZLzLAmnzdFvZyXht4CBEDD1U/https/media.tenor.com/PLIr_VkF6ywAAAPo/ghostedvpn-hacker-cat.mp4
+<p align="center">
+  <img src="https://media.tenor.com/PLIr_VkF6ywAAAPo/ghostedvpn-hacker-cat.gif" height="200"/>
+</p>
